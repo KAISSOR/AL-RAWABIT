@@ -48,11 +48,11 @@ ScrollReveal().reveal(".header__container .header__socials", {
   delay: 1500,
 });
 
-ScrollReveal().reveal(".about__image-1, .about__image-3", {
+ScrollReveal().reveal(".about__image-1, .about__image-3 , .about__image-5 , .about__image-7", {
   ...scrollRevealOption,
   origin: "right",
 });
-ScrollReveal().reveal(".about__image-2", {
+ScrollReveal().reveal(".about__image-2 , .about__image-4 , .about__image-6", {
   ...scrollRevealOption,
   origin: "left",
 });
